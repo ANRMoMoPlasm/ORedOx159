@@ -1,2 +1,2 @@
 # ORedOx159
-The ORedOx159 database is a chemical database containing 159 reduction and oxydation potentials of organic molecules
+The ORedOx159 database is a chemical dataset containing 159 reduction and oxydation potentials of 159 organic molecules.
