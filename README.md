@@ -11,3 +11,6 @@ The name of each xyz file (i.e., xx-yy_aa_bb.xyz) is decomposed such as:
 - yy: number of the system within the family
 - aa: charge of the system: {0n: 0, 1a: -1, 2a: -2, 1c: +1, 2c: +2}
 - bb: ground-state (gn), oxidized (ox) or reduced (rd) structure
+
+# Benchmark
+A benchmark comparison at various DFT levels is provided so as to evaluate the impact of the exchange-correlation approximation on the computed SCF and Gibbs free energies.
