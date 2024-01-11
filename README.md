@@ -17,3 +17,7 @@ A benchmark comparison at various DFT levels is provided so as to evaluate the i
 - RSX-PBE0/def2-TZVPP
 
 ![alt text](https://github.com/ANRMoMoPlasm/ORedOx159/blob/main/benchmark/ORedOx159_RSX-PBE0.png)
+
+- B97-3c
+
+![alt text](https://github.com/ANRMoMoPlasm/ORedOx159/blob/main/benchmark/ORedOx159_B97-3c.png)
