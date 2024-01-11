@@ -16,4 +16,4 @@ The name of each xyz file (i.e., xx-yy_aa_bb.xyz) is decomposed such as:
 A benchmark comparison at various DFT levels is provided so as to evaluate the impact of the exchange-correlation approximation on the computed SCF and Gibbs free energies.
 - RSX-PBE0/def2-TZVPP
 
-![alt text](https://github.com/ANRMoMoPlasm/ORedOx159/blob/main/benchmark/ORedOx159.png)
+![alt text](https://github.com/ANRMoMoPlasm/ORedOx159/blob/main/benchmark/ORedOx159_RSX-PBE0.png)
