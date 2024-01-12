@@ -21,3 +21,7 @@ A benchmark comparison at various DFT levels is provided so as to evaluate the i
 - ## B97-3c
 
 ![alt text](https://github.com/ANRMoMoPlasm/ORedOx159/blob/main/benchmark/ORedOx159_B97-3c.png)
+
+- ## PBEh-3c
+
+![alt text](https://github.com/ANRMoMoPlasm/ORedOx159/blob/main/benchmark/ORedOx159_PBEh-3c.png)
